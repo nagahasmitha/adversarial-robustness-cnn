@@ -124,20 +124,16 @@ SSIM ensures perturbations remain imperceptible to humans.
 
 🖼 Example Results
 Original vs Adversarial Images
-Add your screenshots here.
+
 
 Example:
 
-images/original_cat.png
-images/fgsm_cat.png
-images/pgd_cat.png
-In README add like this:
+original_cat.png
+fgsm_cat.png
+pgd_cat.png
 
-![Original Image](images/original_cat.png)
 
-![FGSM Attack](images/fgsm_cat.png)
 
-![PGD Attack](images/pgd_cat.png)
 
 
 Additional attack results for FGSM, PGD, GAN, and Hybrid models are included in this repository.
